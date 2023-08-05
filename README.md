@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wlgao-WHU
-- 👀 I’m interested in GPS Meteorology, Computer Vision and machine learning.
+- 👀 I’m interested in GNSS Meteorology, Computer Vision and machine learning.
 - 📫 My email:wl_gao@whu.edu.cn
 
 <!---
